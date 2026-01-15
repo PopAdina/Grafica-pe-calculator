@@ -1,0 +1,21 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\bin\Debug\SetJulia.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\bin\Debug\SetJulia.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\bin\Debug\SetJulia.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.Form1.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetJulia\SetJulia\obj\Debug\SetJulia.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\bin\Debug\SetJulia.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\bin\Debug\SetJulia.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\bin\Debug\SetJulia.pdb
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\obj\Debug\SetJulia.csproj.AssemblyReference.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\obj\Debug\SetJulia.Form1.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\obj\Debug\SetJulia.Properties.Resources.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\obj\Debug\SetJulia.csproj.GenerateResource.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\obj\Debug\SetJulia.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\obj\Debug\SetJulia.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetJulia\SetJulia\obj\Debug\SetJulia.pdb

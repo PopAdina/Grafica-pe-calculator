@@ -1,0 +1,19 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.pdb
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.pdb
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.AssemblyReference.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.Form1.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.Properties.Resources.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.GenerateResource.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.pdb
