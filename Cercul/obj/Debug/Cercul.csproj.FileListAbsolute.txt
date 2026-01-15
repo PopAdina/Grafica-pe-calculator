@@ -1,0 +1,10 @@
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\bin\Debug\Cercul.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\bin\Debug\Cercul.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\bin\Debug\Cercul.pdb
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\obj\Debug\Cercul.csproj.AssemblyReference.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\obj\Debug\Cercul.Form1.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\obj\Debug\Cercul.Properties.Resources.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\obj\Debug\Cercul.csproj.GenerateResource.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\obj\Debug\Cercul.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\obj\Debug\Cercul.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Cercul\obj\Debug\Cercul.pdb
