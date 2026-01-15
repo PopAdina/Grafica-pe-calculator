@@ -1,0 +1,21 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lab3\Lab3\obj\Debug\Lab3.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Lab3\Lab3\obj\Debug\Lab3.pdb

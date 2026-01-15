@@ -1,0 +1,21 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\bin\Debug\Reflexia.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\bin\Debug\Reflexia.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\bin\Debug\Reflexia.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.Form1.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Reflexia\Reflexia\obj\Debug\Reflexia.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\bin\Debug\Reflexia.exe.config
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\bin\Debug\Reflexia.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\bin\Debug\Reflexia.pdb
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\obj\Debug\Reflexia.csproj.AssemblyReference.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\obj\Debug\Reflexia.Form1.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\obj\Debug\Reflexia.Properties.Resources.resources
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\obj\Debug\Reflexia.csproj.GenerateResource.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\obj\Debug\Reflexia.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\obj\Debug\Reflexia.exe
+C:\Users\popad\OneDrive\Desktop\GraficaPeCalculator\Reflexia\Reflexia\obj\Debug\Reflexia.pdb
